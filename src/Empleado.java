@@ -1,3 +1,7 @@
+/*
+ * Programadores:
+ * Juan Pablo Pasos Silva - 225200994
+ */
 public abstract class Empleado {
     private int id;
     private String nombre;

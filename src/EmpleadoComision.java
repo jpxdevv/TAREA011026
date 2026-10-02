@@ -1,3 +1,7 @@
+/*
+ * Programadores:
+ * Juan Pablo Pasos Silva - 225200994
+ */
 public class EmpleadoComision extends Empleado implements Bonificable {
     private double ventas;
     private double porcentajeComision;

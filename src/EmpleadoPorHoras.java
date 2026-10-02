@@ -1,3 +1,7 @@
+/*
+ * Programadores:
+ * Juan Pablo Pasos Silva - 225200994
+ */
 public class EmpleadoPorHoras extends Empleado {
     private double horasTrabajadas;
     private double pagoPorHora;
